@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  cursor: none;
+}
+h1{
+  font-family: 'Schoolbell', cursive;
+  font-size: 72px;
+  color:rgb(255, 255, 255);
+  transition: color .3s;
+} 
+h1:hover{
+  color:rgba(135, 194, 245, 0.616) ;
+} 
